@@ -16,4 +16,5 @@ The script takes as input:
   - duplicatesAllowed: if 0, citizenIDs must be unique, if 1 dulpicate citizenIDs are allowed
 
 More info on the project description on [hw1-spring-2021.pdf](https://github.com/giannhskp/System-Programming/blob/main/Project1/hw1-spring-2021.pdf) file.
+
 More info on the project implementation on [README.txt](https://github.com/giannhskp/System-Programming/blob/main/Project1/README.txt) file.

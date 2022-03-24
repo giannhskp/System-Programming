@@ -42,3 +42,11 @@ The script takes as input:
   - inputFile: a file with same format as the input files of Project 1.
   - input_dir: the name of the directories where the subdirectories will be placed.
   - numFilesPerDirectory: number of files tha every directory will contain.
+
+## Project 3 : Travel Monitor v2
+Goal of this project is to familiarize with:
+  - Thread creation
+  - Network Programming using sockets
+
+Modified the Travel Monitor App of Project 2, in order to use Threads and the communication is performed over sockets.
+The functionality remains the same. Main differences are that the communication over pipes is replaced with socket communication and the input file parsing is performed by a number of threads. 
